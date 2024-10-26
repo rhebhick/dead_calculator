@@ -1,70 +1,99 @@
-# Getting Started with Create React App
+<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [death calculator] 🎯
 
-## Available Scripts
 
-In the project directory, you can run:
+## Basic Details
+### Team Name: [paper]
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Team Members
+- Team Lead: [Rhebhick P] - [snm institute of technology and management]
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### Project Description
+[project used to calculate life span of the user from few data]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### The Problem (that doesn't exist)
+[curiosity about day of death]
 
-### `npm run build`
+### The Solution (that nobody asked for)
+[adding your age with life expetancy of country and create chenges according to their life style]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technical Details
+### Technologies/Components Used
+For Software:
+- [javascript]
+- [react]
+- [bootstrap,]
+- [ google fonts]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Implementation
+For Software:
+# Installation
+[npx create-react-app my-app
+cd my-app
 
-### `npm run eject`
+]
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Run
+[npm start]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Project Documentation
+For Software:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Screenshots (Add at least 3)
+![Screenshot1]![Screenshot (206)](https://github.com/user-attachments/assets/d87c217e-ae29-4427-b2b6-b67bea6c266a)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+*like this result is viewing*
 
-## Learn More
+![Screenshot2]![Screenshot (205)](https://github.com/user-attachments/assets/56ba8f1a-92ef-45ed-8be8-d161a0b94dcf)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+some life based questions
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot3]![Screenshot (204)](https://github.com/user-attachments/assets/8ffbf2c9-9e30-4ec7-9a99-9c98040fced0)
 
-### Code Splitting
+*main calculations are through date of birth*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+*Add caption explaining your workflow*
 
-### Analyzing the Bundle Size
+For Hardware:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Schematic & Circuit
+![Circuit](Add your circuit diagram here)
+*Add caption explaining connections*
 
-### Making a Progressive Web App
+![Schematic](Add your schematic diagram here)
+*Add caption explaining the schematic*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Build Photos
+![Components](Add photo of your components here)
+*List out all components shown*
 
-### Advanced Configuration
+![Build](Add photos of build process here)
+*Explain the build steps*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Final](Add photo of final product here)
+*Explain the final build*
 
-### Deployment
+### Project Demo
+# Video
+[Add your demo video link here]
+*Explain what the video demonstrates*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Additional Demos
+[Add any extra demo materials/links]
 
-### `npm run build` fails to minify
+## Team Contributions
+- [Name 1]: [Specific contributions]
+- [Name 2]: [Specific contributions]
+- [Name 3]: [Specific contributions]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+Made with ❤️ at TinkerHub Useless Projects 
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
