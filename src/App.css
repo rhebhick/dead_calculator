@@ -1,38 +1,134 @@
-.App {
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&family=Silkscreen:wght@400;700&display=swap');
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Wet+Paint&family=Silkscreen:wght@400;700&display=swap');
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 0;
+  background-color: black;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+.set{
+  margin: -20px;
+  height: 100vh;
+  width: 102.5%;
+  background-image: url("Horror.jpg");
+  background-size: cover;
   color: white;
+  filter: brightness(100%);
+  opacity: 80%;
 }
 
-.App-link {
-  color: #61dafb;
+form {
+  margin-bottom: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+label {
+  display: block;
+  margin-top: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.silkscreen-regular {
+  font-family: "Silkscreen", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: larger;
+}
+
+.silkscreen-bold {
+  font-family: "Silkscreen", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.rubik-wet-paint-regular {
+  font-family: "Rubik Wet Paint", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.rubik-wet-paint-regular {
+  font-family: "Rubik Wet Paint", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.rubik-wet-paint-regular {
+  font-family: "Rubik Wet Paint", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(255, 55, 55);
+  text-shadow: 0px 3px 0px black;
+}
+#innerbox{
+ 
+  width: 25%;
+  padding-left: 7%;
+  margin-left: 30%;
+  height: 40vh;
+  padding-top: 30px;
+  filter: brightness(120%);
+  opacity: 100%;
+  padding-right: 7%;
+
+}
+.properise{
+  height: 180px;
+}
+.inbox {
+         
+  width: 80rem;
+  position: relative;
+  z-index: 1;
+  background: rgba(88, 88, 90, 0.242);
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  border: 1px solid #151414;
+  color: rgb(237, 230, 230);
+  font-size: larger;
+  margin-top: 5vh;
+  text-align: center;
+  justify-content: center;
+
+}
+
+.inbox::before {
+  content: '';
+  position: absolute;
+  height: 100%;
+  border-radius: 10px;
+  backdrop-filter: blur(100px);
+  -webkit-backdrop-filter: blur(100px);
+  z-index: -1;
+
+}
+.next{
+  margin-top: 10px;
+  padding-inline: 20px;
+  padding-block: 10px ;
+  margin-left: 3%;
+  border-radius: 5px;
+  transition: .4s;
+}
+.next:hover{
+  transform:scale(.9,.9);
+}
+.submit{
+  margin-top: 10px;
+  padding-inline: 20px;
+  padding-block: 10px ;
+  margin-left: 3%;
+  border-radius: 5px;
+}
+.submit:hover{
+  background-color: rgb(15, 15, 15);
+  color: rgb(255, 255, 255);
+  border: 0px;
+  border-radius: 5px;
+}
+.form-control{
+  padding: 10px 20px;
+}
+.result{
+  color: rgb(56, 10, 10);
+  font-size: larger;
 }
